@@ -67,7 +67,7 @@ welcome = """
 
     text-align: right;
     padding-top: 11em;
-    background-color: #1BA86D;
+    background-color: #d5f4e6;
     background-image: -moz-radial-gradient(left top, circle, #6AF9BD 0%, #00B386 60%);
     background-image: -webkit-gradient(radial, 0 0, 1, 0 0, 500, from(#6AF9BD), to(#00B386));
   }
@@ -106,8 +106,8 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Congratulations</h1>
-    <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
+    <h1>Congratulations This is awesome</h1>
+    <p>I must practice !</p>
     <p>This environment is launched with Elastic Beanstalk Python Platform</p>
   </div>
   
